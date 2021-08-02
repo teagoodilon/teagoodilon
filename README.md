@@ -26,4 +26,4 @@
 
  </div>
   
-![Snake animation](https://github.com/teagoodilon/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/teagoodilon/teagoodilon/blob/output/github-contribution-grid-snake.svg)
