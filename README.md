@@ -1,4 +1,4 @@
-## Olá! Meu nome é Thiago Odilon
+## Olá! Meu nome é Thiago Odilon 🍇
 
  <div>
   <a href="https://github.com/teagoodilon">
