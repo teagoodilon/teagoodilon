@@ -9,11 +9,16 @@
   <img align="center" alt="Thiago-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Thiago-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Thiago-C++" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
+  <img align="center" alt="Thiago-Ruby" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg">
+  <img align="center" alt="Thiago-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
   <img align="center" alt="Thiago-Vue" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg">
+  <img align="center" alt="Thiago-React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
   <img align="center" alt="Thiago-Photoshop" height="30" width="40" src="https://www.svgrepo.com/show/303170/adobe-photoshop-cs6-logo.svg">
   <img align="center" alt="Thiago-Illustrator" height="30" width="40" src="https://www.svgrepo.com/show/303184/adobe-illustrator-cc-logo.svg">
   <img align="center" alt="Thiago-Premiere" height="30" width="40" src="https://www.svgrepo.com/show/303185/premiere-cc-logo.svg">
+ 
   <img align="right" alt="Thiago-Yea" height="100" width="100" src="https://media1.tenor.com/images/9bab5b610a322402a81b2375e6395a9a/tenor.gif?itemid=10574385">
+ 
 </div>
   
  ##
